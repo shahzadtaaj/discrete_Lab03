@@ -1,2 +1,5 @@
 Console.WriteLine("Name: Muhammad Shahzad");
 Console.WriteLine("Roll No.: 24-ST-001");
+int a=5;
+int b=1;
+Console.WriteLine(a/b);
