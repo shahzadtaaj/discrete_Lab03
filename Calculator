@@ -1,5 +1,10 @@
 Console.WriteLine("Name: Muhammad Shahzad");
 Console.WriteLine("Roll No.: 24-ST-001");
+int a=6;
+int b=2;
+int c=a/b;
+Console.WriteLine(c);
+
 int a =5;
 int b=3;
 Console.Writeline(a+b);
@@ -17,5 +22,8 @@ Console.WriteLine(c); //15
 int a=5;
 int b=1;
 Console.WriteLine(a/b);
+
+
+
 
 
